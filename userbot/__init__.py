@@ -931,13 +931,13 @@ with bot:
                     link_preview=True)
             else:
                 result = builder.article(
-                    "  ⚡ᴋᴀʏᴢᴜ-ᴜʙᴏᴛ⚡",
-                    text="""°Kayzu-Ubot°""",
+                    "  ⚡ALLBOS-USERBOT⚡",
+                    text="""°Allbos-USERBKT°""",
                     buttons=[
                         [
                             custom.Button.url(
                                 "Kayzu",
-                                "https://github.com/Kayzyu/Kayzu-Ubot"),
+                                "https://github.com/Allbos/Allbos-USERBOT"),
 
                             custom.Button.url(
                                 "Channel",
