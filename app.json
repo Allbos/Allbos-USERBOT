@@ -1,6 +1,6 @@
 {
-  "name": "Kayzu-Ubot",
-  "description": "KAYZU-UBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "Allbos-USERBOT",
+  "description": "[Allbos-USERBOT] KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/d257ba98dbd40a7f6fa04.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
 ],
-  "repository": "https://github.com/Kayzyu/Kayzu-Ubot",
-  "telegram": "https://t.me/Kayzuuuuu",
-  "success_url": "https://t.me/KayzuSupport",
+  "repository": "https://github.com/Allbos/Albos-USERBOT",
+  "telegram": "https://t.me/ALLBOSUBOT",
+  "success_url": "https://t.me/BabyAllbos",
   "stack": "container",
   "env": {
     "API_KEY": {
